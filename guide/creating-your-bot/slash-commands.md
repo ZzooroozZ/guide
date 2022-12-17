@@ -30,7 +30,7 @@ Assuming you've followed the guide so far, your project directory should look so
 discord-bot/
 ├── node_modules
 ├── config.json
-├── index.js
+├── main.js
 ├── package-lock.json
 └── package.json
 ```
